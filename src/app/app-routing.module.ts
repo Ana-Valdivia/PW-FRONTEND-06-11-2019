@@ -23,7 +23,7 @@ const routes: Routes = [
     {
       path : 'detalheprojeto/:id',
       component : DetalheProjetosComponent
-      }.
+      }
       
 
 
